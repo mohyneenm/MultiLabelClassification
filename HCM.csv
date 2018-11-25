@@ -1,0 +1,33 @@
+Utterance, Shift, TAFW, Meeting, Confirmation, Approve, Deny
+Trade my shift, 1,0,0,0,0,0
+I want to take a vacation, 0,1,0,0,0,0
+yes, 0,0,0,1,0,0
+ok, 0,0,0,1,0,0
+"Yes, go ahead", 0,0,0,1,0,0
+No, 0,0,0,1,0,0
+Do I have any meeting <dateperiod>, 0,0,1,0,0,0
+Approve his requests, 0,0,0,0,1,0
+Approve him, 0,0,0,0,1,0
+Approve all his requests, 0,0,0,0,1,0
+Deny all of their requests, 0,0,0,0,0,1
+deny all his requests, 0,0,0,0,0,1
+deny her request, 0,0,0,0,0,1
+deny her, 0,0,0,0,0,1
+Approve that and submit a meeting request for <datetime>, 0,0,1,0,1,0
+Approve that and submit a vacation request on <datetime>, 0,1,0,0,1,0
+Yes and trade my <datetime> shift, 1,0,0,1,0,0
+Do I have any shifts <dateperiod>, 1,0,0,0,0,0
+what's my schedule for <dateperiod>, 1,0,0,0,0,0
+show me my <datetime> schedule, 1,0,0,0,0,0
+am i working <dateperiod>, 1,0,0,0,0,0
+submit a day off on <datetime>, 0,1,0,0,0,0
+am i working on <datetime>, 1,0,0,0,0,0 
+I'll take 3 days off <dateperiod>, 0,1,0,0,0,0
+i'll take it off on <datetime> from 2pm, 0,1,0,0,0,0
+I want to take <datetime> off, 0,1,0,0,0,0
+yes and please submit a vacation, 0,1,0,1,0,0
+yes and I want to take time off, 0,1,0,1,0,0
+no and I want to take time off, 0,1,0,1,0,0
+yes and approve all his request, 0,0,0,1,1,0
+yes and deny all requests, 0,0,0,0,1,1
+no and approve all her requests, 0,0,0,1,1,0
